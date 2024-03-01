@@ -1,0 +1,7 @@
+name = "HartreeFockForMoire"
+uuid = "ea320d72-fc39-4b5b-ba86-dd59866f05d6"
+authors = ["YeYusen <yusenye2@uw.edu>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
